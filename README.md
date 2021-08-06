@@ -4,7 +4,7 @@
 
 💼 Currently Interested in Web Development, Application Development, and Cloud Architect
 
----
+<!-- ---
 <h3>Platform</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -14,7 +14,7 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 
-</p>
+</p> -->
 
 ---
 ### About Me   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
