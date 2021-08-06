@@ -24,6 +24,7 @@ const Darvin = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "C"],
     interest: ["Web Dev", "App Dev", "Cloud", "Machine Learning"],
+    cloud: ["Azure", "AWS"].
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
