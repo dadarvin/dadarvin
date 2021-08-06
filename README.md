@@ -1,8 +1,8 @@
 ### Hello, I'm Darvin 👋
 
-Welcome to my Github Page ! 📫
+📫 Welcome to my Github Page ! 
 
-Currently Interested in Web Development, Application Development, and Cloud Architect
+💼 Currently Interested in Web Development, Application Development, and Cloud Architect
 
 ---
 
@@ -13,6 +13,7 @@ Currently Interested in Web Development, Application Development, and Cloud Arch
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darvinyap/)](https://www.linkedin.com/in/darvinyap/)
 </p>
 
 ---
