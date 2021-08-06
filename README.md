@@ -5,7 +5,6 @@
 💼 Currently Interested in Web Development, Application Development, and Cloud Architect
 
 ---
-
 <h3>Platform</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -18,7 +17,6 @@
 </p>
 
 ---
-
 ### About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
@@ -38,6 +36,9 @@ const Darvin = {
     currentFocus: "Full Stack Developer",
 };
 ```
+---
+### 👇 Note: 
+This Github Repositories mainly contains basic project that i build to improve my skills in certain framework 
 
 <!--
 **dadarvin/dadarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
