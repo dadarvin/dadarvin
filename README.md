@@ -36,7 +36,7 @@ const Darvin = {
     currentFocus: "Full Stack Developer",
 };
 ```
-
+<br>
 
 ---
 ### 👇 Note: 
