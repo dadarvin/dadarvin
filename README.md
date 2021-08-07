@@ -41,7 +41,7 @@ const Darvin = {
 
 ---
 ### 👇 Note: 
-This Github Repositories mainly contains basic project that i build to improve my skills in certain framework 
+This Github Repositories mainly contains project that i build to improve my skills in certain framework 
 
 <!--
 **dadarvin/dadarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
