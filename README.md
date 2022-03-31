@@ -22,7 +22,7 @@
 ```javascript
 const Darvin = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C"],
+    code: ["Javascript", "Python", "Java", "C", "Go"],
     interest: ["Web Dev", "App Dev", "Cloud", "Machine Learning"],
     cloud: ["Azure", "AWS"].
     technologies: {
@@ -34,7 +34,7 @@ const Darvin = {
         },
         databases: ["PostgreSQL", "MySql"],
     },
-    currentFocus: "Full Stack Developer",
+    currentFocus: "Full Stack Software Engineer",
 };
 ```
 <br>
