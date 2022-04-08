@@ -28,6 +28,7 @@ const Darvin = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
+            go: ["Gin"],
         },
         mobileApp: {
             native: ["Android & IOS", "Flutter"]
