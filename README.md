@@ -2,7 +2,7 @@
 
 📫 Welcome to my Github Page ! 
 
-💼 Currently Interested in Web Development, Application Development, and Cloud Architect
+💼 Currently Interested in Backend Development and Blockchain
 
 <!-- ---
 <h3>Platform</h3>
@@ -22,12 +22,12 @@
 ```javascript
 const Darvin = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C", "Go"],
-    interest: ["Web Dev", "App Dev", "Cloud", "Machine Learning"],
-    cloud: ["Azure", "AWS"].
+    code: ["Java", "C", "Go"],
+    interest: ["Backend Development", "Software Architect", "Blockchain"],
+    cloud: ["Alicloud", "AWS"].
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            java: ["Spring"],
             go: ["Gin"],
         },
         mobileApp: {
@@ -35,7 +35,7 @@ const Darvin = {
         },
         databases: ["PostgreSQL", "MySql"],
     },
-    currentFocus: "Full Stack Software Engineer",
+    currentFocus: "Backend Development",
 };
 ```
 <br>
