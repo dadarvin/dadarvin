@@ -22,9 +22,9 @@
 ```javascript
 const Darvin = {
     pronouns: "He" | "Him",
-    code: ["Java", "C", "Go"],
-    interest: ["Backend Development", "Software Architect", "Blockchain"],
-    cloud: ["Alicloud", "AWS"].
+    code: ["Java", "Go", "Typescript", "C"],
+    interest: ["Backend Development", "Software Engineer", "Blockchain"],
+    cloud: ["Alicloud", "AWS", "Azure"].
     technologies: {
         backEnd: {
             java: ["Spring"],
@@ -33,9 +33,9 @@ const Darvin = {
         mobileApp: {
             native: ["Android & IOS", "Flutter"]
         },
-        databases: ["PostgreSQL", "MySql"],
+        databases: ["PostgreSQL", "MySql", "MongoDB"],
     },
-    currentFocus: "Backend Development",
+    currentFocus: "Backend",
 };
 ```
 <br>
